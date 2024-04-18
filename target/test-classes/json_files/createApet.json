@@ -1,0 +1,18 @@
+{
+    "id": 10011001,
+    "category": {
+        "id": 21,
+        "name": "Dog"
+    },
+    "name": "PewPewDoggie",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 21999,
+            "name": "P_21999"
+        }
+    ],
+    "status": "available"
+}
