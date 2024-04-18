@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoketests_Suite">
+	<test name="SmokeTest_Execution">
+	<groups>
+	<run>
+		<include name="smoketest"></include>
+	</run>
+	</groups>
+		<classes>
+			<class name="api_tests.TestNGDemo"></class>
+		</classes>
+	</test>
+</suite>
